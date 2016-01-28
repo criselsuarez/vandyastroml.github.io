@@ -1,5 +1,5 @@
 # vandyastroml.github.io
-Website for the Vanderbilt Astronomy ML Group
+Website for the Vanderbilt Astronomy ML Group - Spring 2016
 
 by Victor Calderon
 
